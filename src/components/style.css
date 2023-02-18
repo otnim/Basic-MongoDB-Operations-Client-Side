@@ -1,0 +1,14 @@
+.nav-header{
+    background-color: rgb(20, 39, 56);
+}
+.nav-header a{
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+    padding: 5px 10px;
+}
+
+.nav-header a:hover{
+    background-color: aliceblue;
+    color: black;
+}
